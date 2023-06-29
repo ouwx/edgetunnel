@@ -1,3 +1,5 @@
+小白部署手册https://nb.adone.eu.org/article/edgetunnel
+
 这是一个名为 edgetunnel 的 github 项目，可以通过 Cloudflare Workers 部署一个 vless协议的 V2ray代理。
 提醒各位，本项目仅限技术交流使用，请勿滥用，由此引起的账号封禁等风险后果自负。
 项目地址
